@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-ocr-api": "^2.0.5",
+    "google-maps": "^3.2.1",
+    "yandex-translate": "^2.1.0",
+    "yandex.translate": "^1.0.1"
+  }
+}
