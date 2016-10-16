@@ -1,0 +1,2 @@
+# Shealth
+Shealth is a chat bot that allows women to lead a healthier lifestyle. We not only allow women to fill the tampax survey provided by PG in an interactive manner but also allow them to look for chemists and washrooms nearby in case of emergencies. We also fetch best product deals for her skin care with the sentimentally analysed reviews of the product as per the skin type of the lady. On top of this, we built an API as a service platform which allows companies like PG to create an API end point quickly to be fed to review and listing sites.
